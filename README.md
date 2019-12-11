@@ -39,7 +39,7 @@ accessed and / or modified by the Application.
 
 
 ACCESS MICROPHONE:
-Allows the Application to make Recordings using the microphone.
+Allows the Application to make Recordings using the microphone.dd
 
 
 MODIFY AUDIO SETTINGS:
